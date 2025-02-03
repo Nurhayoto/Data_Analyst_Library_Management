@@ -250,7 +250,7 @@ This project demonstrates the application of SQL skills in creating and managing
 
 
 
-## Author - Zero Analyst
+## Author - Muhammad Ridho Nurhayoto
 
 This project showcases SQL skills essential for database management and analysis. For more content on SQL and data analysis, connect with me through the following channels:
 
